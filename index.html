@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lamp Collection</title>
+  <meta name="description" content="A catalogue of designer lamps: names, photos, features and the stories behind them.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">A lamp catalogue</p>
+      <h1>Lamp Collection</h1>
+      <p class="lede">Designer lamps, their makers and the stories behind them. First entries from
+        <a id="source-link" href="#">The lamps in my house</a>.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search name, designer, brand…" aria-label="Search lamps">
+      <div id="filters" class="filters" role="group" aria-label="Filter by type"></div>
+    </div>
+    <p id="count" class="count"></p>
+    <ul id="grid" class="grid"></ul>
+  </main>
+
+  <dialog id="detail" aria-labelledby="d-name">
+    <button class="close" aria-label="Close">×</button>
+    <div class="d-gallery">
+      <img id="d-main" alt="">
+      <div id="d-thumbs" class="thumbs"></div>
+    </div>
+    <div class="d-body">
+      <p id="d-meta" class="eyebrow"></p>
+      <h2 id="d-name"></h2>
+      <dl id="d-facts" class="facts"></dl>
+      <h3>Features</h3>
+      <ul id="d-features" class="features"></ul>
+      <h3>Story</h3>
+      <p id="d-story"></p>
+      <p id="d-links" class="links"></p>
+    </div>
+  </dialog>
+
+  <footer class="wrap footer">
+    <p>Photos and original text by <a id="credit" href="#">Fatih Arslan</a>. Summaries here are paraphrased; read the original post for the full story.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,294 @@
+{
+  "source": {
+    "title": "The lamps in my house",
+    "author": "Fatih Arslan",
+    "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+    "date": "2026-10-05",
+    "imageBase": "https://storage.ghost.io/c/ce/27/ce27a3ef-1519-4f17-a161-c8cdf7793306/content/images/"
+  },
+  "lamps": [
+    {
+      "id": "tolomeo-mini",
+      "name": "Tolomeo Mini",
+      "brand": "Artemide",
+      "designer": "Michele De Lucchi & Giancarlo Fassina",
+      "year": 1987,
+      "type": "Desk",
+      "origin": "Italy",
+      "images": ["2026/10/L1007521.jpeg", "2026/10/L1006264.jpeg", "2026/10/IMG_3216.jpeg", "2026/10/9162114bc09d74f82004b98b500f0933.jpeg"],
+      "features": [
+        "Won the Compasso d’Oro in 1989",
+        "Balanced arm that is easy to reposition",
+        "One of the most copied desk lamps ever made"
+      ],
+      "story": "De Lucchi, a leading Italian designer and Memphis member, co-designed it with Fassina. Several Tolomeos once sat on the desks of Apple's Industrial Design studio. Fatih uses his on his work desk, attached to a USM Haller table with an adaptor he designed himself.",
+      "links": [{ "label": "Lamp adaptor", "url": "https://arslan.io/lamp-adaptor/" }]
+    },
+    {
+      "id": "tizio-micro",
+      "name": "Tizio Micro",
+      "brand": "Artemide",
+      "designer": "Richard Sapper",
+      "year": 1972,
+      "type": "Desk",
+      "origin": "Italy",
+      "images": ["2026/10/L1008301.jpeg", "2026/10/L1008316.jpeg", "2026/10/L1008300.jpeg", "2026/10/1CB9B841-9209-4F08-A2DD-D07DA5184255.jpeg", "2026/10/L1008307.jpeg"],
+      "features": [
+        "No wires along the arms: the arms carry the current",
+        "Counterweights let you move it with one finger",
+        "Smaller version of the original Tizio"
+      ],
+      "story": "Sapper, who later designed the first IBM ThinkPad and Alessi's 9090 espresso maker, made the Tizio because he wanted a better lamp for his own desk. “Tizio” is Italian for “dude”. The small red details are his signature, like the red TrackPoint on the ThinkPad.",
+      "links": []
+    },
+    {
+      "id": "akari-1a",
+      "name": "Akari 1A",
+      "brand": "Akari / Ozeki",
+      "designer": "Isamu Noguchi",
+      "year": 1951,
+      "type": "Table",
+      "origin": "Japan",
+      "images": ["2026/10/L1000511.jpeg", "2026/10/L1007563.jpeg"],
+      "features": [
+        "Washi paper shade gives a gentle, warm glow",
+        "One of the earliest and simplest Akari shapes",
+        "Light, sculptural form"
+      ],
+      "story": "Noguchi started the Akari series in 1951 after visiting Gifu, a city known for paper lanterns. “Akari” means light in Japanese, both as illumination and lightness. Fatih bought this one secondhand in Germany and a friend brought it to him.",
+      "links": []
+    },
+    {
+      "id": "akari-3a",
+      "name": "Akari 3A",
+      "brand": "Akari / Ozeki",
+      "designer": "Isamu Noguchi",
+      "year": null,
+      "type": "Table",
+      "origin": "Japan",
+      "images": ["2026/10/B1AFFAC3-E4B2-4E9A-AB98-666BBD4A078F.jpeg", "2026/10/L1003254.jpeg"],
+      "features": [
+        "56 cm tall, with longer legs than the 1A",
+        "Wooden trim at top and bottom",
+        "Best on a low table, sideboard or cabinet"
+      ],
+      "story": "A taller sibling of the 1A. Its size is a little awkward: too short for the floor and a bit too big for a normal desk, so it lives on low furniture.",
+      "links": []
+    },
+    {
+      "id": "akari-16a",
+      "name": "Akari 16A",
+      "brand": "Akari / Ozeki",
+      "designer": "Isamu Noguchi",
+      "year": null,
+      "type": "Floor",
+      "origin": "Japan",
+      "images": ["2026/10/IMG_2498.jpeg"],
+      "features": [
+        "Distinctive shape that still almost disappears into the room",
+        "Handmade at Ozeki in Gifu with traditional methods"
+      ],
+      "story": "The first Akari Fatih bought. It started in his office and later moved to the bedroom. Every Akari is still made by hand at Ozeki, the family-run workshop Noguchi worked with.",
+      "links": []
+    },
+    {
+      "id": "akari-75a",
+      "name": "Akari 75A",
+      "brand": "Akari / Ozeki",
+      "designer": "Isamu Noguchi",
+      "year": null,
+      "type": "Floor",
+      "origin": "Japan",
+      "images": ["2026/10/L1000762.jpeg", "2026/10/L1000761.jpeg"],
+      "features": [
+        "Roughly 75 cm across, the biggest lamp in the house",
+        "Red sun-and-moon stamp marks an authentic Akari"
+      ],
+      "story": "It replaced the 16A in the office and gives the room real presence. Noguchi designed more than 100 Akari models in his lifetime.",
+      "links": []
+    },
+    {
+      "id": "ph-5",
+      "name": "PH 5",
+      "brand": "Louis Poulsen",
+      "designer": "Poul Henningsen",
+      "year": 1958,
+      "type": "Pendant",
+      "origin": "Denmark",
+      "images": ["2026/10/IMG_3314.jpeg", "2026/10/IMG_0574.jpeg"],
+      "features": [
+        "Bulb is never directly visible, so the light stays soft",
+        "50 cm shade gives it the “5”",
+        "Small red and blue inner parts warm the light"
+      ],
+      "story": "Fatih first noticed it hanging over the dinner table in the Danish film Another Round, then saw one in Dieter Rams’ house. It is one of the most famous Danish lamps and very common in Danish homes.",
+      "links": []
+    },
+    {
+      "id": "ph-3-2",
+      "name": "PH 3/2",
+      "brand": "Louis Poulsen",
+      "designer": "Poul Henningsen",
+      "year": 1925,
+      "type": "Table",
+      "origin": "Denmark",
+      "images": ["2026/10/IMG_8533.jpeg", "2026/10/IMG_8552.jpeg"],
+      "features": [
+        "First lamp to use Henningsen's three-shade system",
+        "Mouth-blown glass, shiny outside and matte inside",
+        "Gold medal at the 1925 Paris exhibition"
+      ],
+      "story": "The three-shade idea came more than 30 years before the PH 5. The glass is fragile: Fatih broke it by accident and waited months for a replacement.",
+      "links": []
+    },
+    {
+      "id": "aj-wall",
+      "name": "AJ Wall Lamp",
+      "brand": "Louis Poulsen",
+      "designer": "Arne Jacobsen",
+      "year": 1957,
+      "type": "Wall",
+      "origin": "Denmark",
+      "images": ["2026/10/IMG_3863.jpeg", "2026/10/IMG_3856.jpeg", "2026/10/IMG_3845.jpeg"],
+      "features": [
+        "Tilting head: aim at the wall for indirect light or at a book for reading",
+        "Designed for the SAS Royal Hotel in Copenhagen"
+      ],
+      "story": "Jacobsen designed almost everything for the SAS Royal Hotel, down to the cutlery, which later appeared in 2001: A Space Odyssey.",
+      "links": []
+    },
+    {
+      "id": "lampe-de-bureau",
+      "name": "Lampe de Bureau",
+      "brand": "Vitra",
+      "designer": "Jean Prouvé",
+      "year": 1930,
+      "type": "Desk",
+      "origin": "France",
+      "images": ["2026/10/IMG_1119.jpeg", "2026/10/IMG_0631.jpeg"],
+      "features": [
+        "Made from a single bent sheet of steel",
+        "Engineered, almost brutal look",
+        "Available from Vitra in its original colors"
+      ],
+      "story": "Prouvé, a French designer and metalworker best known for the Standard Chair, designed it for student residences in Nancy.",
+      "links": []
+    },
+    {
+      "id": "chispa",
+      "name": "Chispa",
+      "brand": "Marset",
+      "designer": "Joan Gaspar",
+      "year": 2020,
+      "type": "Portable",
+      "origin": "Spain",
+      "images": ["2026/10/IMG_4701.jpeg", "2026/10/9FF92512-E800-40FF-88EE-0E6AE8B811A1.jpeg"],
+      "features": [
+        "Rechargeable and water resistant",
+        "Three light levels",
+        "Metal cage inspired by old garage lamps"
+      ],
+      "story": "“Chispa” means spark in Spanish. Fatih carries it around the house and uses it in the garden in summer.",
+      "links": []
+    },
+    {
+      "id": "kismas-lamp-01",
+      "name": "Lamp 01",
+      "brand": "Kismas",
+      "designer": "Ramūnas Minkevičius",
+      "year": null,
+      "type": "Table",
+      "origin": "Lithuania",
+      "images": ["2026/10/L1002492.jpeg", "2026/10/L1002488.jpeg", "2026/10/L1002481.jpeg"],
+      "features": [
+        "Real glass blocks from 1970s–80s Soviet-era buildings",
+        "Film and theater filters change the light color"
+      ],
+      "story": "Kismas is a small studio in Vilnius; the name means change or transformation in Lithuanian. Fatih finds it very artistic but not very functional, and swapping the filters is cumbersome.",
+      "links": []
+    },
+    {
+      "id": "tokio",
+      "name": "Tokio Lamp",
+      "brand": "Please Wait to be Seated",
+      "designer": "Shigeaki Asahara",
+      "year": 1980,
+      "type": "Table",
+      "origin": "Italy / Denmark",
+      "images": ["2026/10/L1006343.jpeg", "2026/10/L1006330.jpeg", "2026/10/L1006345.jpeg"],
+      "features": [
+        "Shade shaped like a mailbox",
+        "Originally made by Stilnovo, reissued in 2020"
+      ],
+      "story": "Fatih spotted it through a shop window in Copenhagen. It was out of stock, so he later had it shipped to Germany and brought it from there to Ankara.",
+      "links": []
+    },
+    {
+      "id": "vision-20-20",
+      "name": "Vision 20/20 Floor",
+      "brand": "DCW éditions",
+      "designer": null,
+      "year": null,
+      "type": "Floor",
+      "origin": "France",
+      "images": ["2026/10/IMG_7657.jpeg", "2026/10/IMG_7656.jpeg", "2026/10/L1000787.jpeg"],
+      "features": [
+        "Two lights, one up and one down, each with its own dimmer",
+        "Base slides under a sofa",
+        "Made for reading"
+      ],
+      "story": "Named after the optician's eye test. It sits next to Fatih's Eames chair and comes on whenever he settles into a book.",
+      "links": []
+    },
+    {
+      "id": "hay-apex-floor",
+      "name": "Apex Floor Lamp",
+      "brand": "HAY",
+      "designer": "John Tree",
+      "year": 2023,
+      "type": "Floor",
+      "origin": "Denmark",
+      "images": ["2026/09/L1001720-1.jpeg", "2026/09/L1001715.jpeg"],
+      "features": [
+        "Shade is one folded sheet of steel",
+        "Shade rotates 360° for indirect light off a wall",
+        "Inspired by the classic banker's lamp"
+      ],
+      "story": "Fatih chose the black version for the floor lamp.",
+      "links": []
+    },
+    {
+      "id": "hay-apex-clip",
+      "name": "Apex Clip Lamp",
+      "brand": "HAY",
+      "designer": "John Tree",
+      "year": 2023,
+      "type": "Clip",
+      "origin": "Denmark",
+      "images": ["2026/09/L1000863.jpeg", "2026/09/L1000861.jpeg", "2026/09/L1000858.jpeg"],
+      "features": [
+        "Same folded steel shade, in green",
+        "Clip mount instead of a stand"
+      ],
+      "story": "The stock clip was ugly and hard to mount on Vitsoe 606 e-tracks, so Fatih designed a 3D-printed attachment; it took a few iterations to get right.",
+      "links": [{ "label": "Vitsoe 606 attachment", "url": "https://arslan.io/apex-clip-lamp-attachment-for-vitsoe-606/" }]
+    },
+    {
+      "id": "block-lamp",
+      "name": "Block Lamp",
+      "brand": "Self-made",
+      "designer": "Fatih Arslan",
+      "year": 2025,
+      "type": "Shelf",
+      "origin": "Turkey",
+      "images": ["2026/09/L1006303.jpeg", "2026/09/L1006275.jpeg", "2026/09/L1006309.jpeg", "2026/09/L1006290.jpeg"],
+      "features": [
+        "Single 3D-printed piece, no glue or bolts",
+        "Front handle can be pulled, pushed or rotated",
+        "Can be placed three different ways"
+      ],
+      "story": "Fatih's own design, made in January 2025 for the shelves of his espresso bar. Ideas for the future include a battery for portability and a CNC-milled or wooden housing.",
+      "links": [{ "label": "Design write-up", "url": "https://arslan.io/2025/01/25/my-first-lighting-design-block-lamp/" }]
+    }
+  ]
+}
